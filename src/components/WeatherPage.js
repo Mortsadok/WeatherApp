@@ -43,7 +43,7 @@ const WeatherPage = () => {
       <div className="weatherHeader">
         <img
           className="iconLogo"
-          src={`https://www.iblsoft.com/wp-content/uploads/2019/01/IBL_logo_OnlineWeather.png`}
+          src={`https://images-eu.ssl-images-amazon.com/images/I/61nuuPxUvaL.png`}
         />
       </div>
       <form className="searchForm" onSubmit={e => onSubmit(e)}>
